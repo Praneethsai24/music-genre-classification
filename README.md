@@ -5,19 +5,25 @@ Automated end-to-end project for classifying music genres using deep learning fo
 ## Project Structure
 music-genre-classification/
 │
-├─ README.md
-├─ requirements.txt
-├─ data/
-│   └─ dataset_download.py
-├─ src/
-│   ├─ feature_extraction.py
-│   ├─ training_models.py
-│   ├─ model_evaluation.py
-│   └─ prediction.py
-├─ notebooks/
-│   └─ main_genre_classification.ipynb
-├─ models/
-└─ docs/
+├── README.md
+├── requirements.txt
+│
+├── data/
+│   └── dataset_download.py
+│
+├── src/
+│   ├── feature_extraction.py
+│   ├── training_models.py
+│   ├── model_evaluation.py
+│   └── prediction.py
+│
+├── notebooks/
+│   └── main_genre_classification.ipynb
+│
+├── models/
+│
+└── docs/
+
 
 
 ## Features
