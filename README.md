@@ -1,4 +1,4 @@
-# Music Genre Classification (Clean Refactor)
+# Music Genre Classification 
 
 End-to-end music genre classification using Librosa features + Keras MLP. This refactor fixes imports, avoids data leakage, adds feature caching, and aligns CLI + docs with the code.
 
